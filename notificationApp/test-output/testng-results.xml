@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21005" started-at="2018-12-25T15:40:51Z" finished-at="2018-12-25T15:41:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21005" started-at="2018-12-25T15:40:51Z" finished-at="2018-12-25T15:41:12Z">
+      <class name="testNG.notificationApp">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testNG.notificationApp@4f933fd1]" name="beforeTest" is-config="true" duration-ms="15733" started-at="2018-12-25T15:40:51Z" finished-at="2018-12-25T15:41:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verify()[pri:0, instance:testNG.notificationApp@4f933fd1]" name="verify" duration-ms="3627" started-at="2018-12-25T15:41:06Z" finished-at="2018-12-25T15:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testNG.notificationApp@4f933fd1]" name="afterTest" is-config="true" duration-ms="1479" started-at="2018-12-25T15:41:10Z" finished-at="2018-12-25T15:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testNG.notificationApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
